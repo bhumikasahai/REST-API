@@ -1,0 +1,15 @@
+REST API - JSON
+
+Get <users />all
+
+GET/USERS/1 -  get the user with id 1
+GET/USERS/2 - get the user with id 2
+
+(1,2,... dynamic path 
+:id)
+
+POST/USERS - create new user
+
+PATCH/USERS/1 - edit the user with ID 1
+
+DELETE/USERS/1 - delete the user with ID 1
